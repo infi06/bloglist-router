@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+
+.list-container {
+  width: 100%;
+}
+
+.blog-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.title {
+  color: #12022f;
+  font-size: 20px;
+}
+
+.date {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+
+.para {
+  color: #616e7c;
+  font-size: 18px;
+}

@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.user-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+}
+
+.name {
+  color: #12022f;
+  font-size: 25px;
+}
+
+.describe {
+  color: #12022f;
+  font-size: 16px;
+  margin: 0px;
+}
